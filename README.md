@@ -4,7 +4,7 @@
 
 ## Web:
 
-https://lrusso.github.io/Quake3/Quake3.htm
+https://casualsideo.github.io/Q3/Quake3Game.htm
 
 ## This porting has mobile compatibility
 
